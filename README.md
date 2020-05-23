@@ -13,7 +13,9 @@ C:\Users\ADMIN> conda –-version
 
 STEP 3: Install packages
 
-C:\Users\Admin> conda install keras
+-keras
+-numpy
+-matplotlib
  
 Step 4:
 Open Anaconda Navigator and click on Jupyter Notebook (click on Launch) and open folder where project is saved.
